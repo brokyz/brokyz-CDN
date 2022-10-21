@@ -68,3 +68,29 @@
 <script src="https://cdn.jsdelivr.net/gh/brokyz/brokyzCDN/bootstrap/1.11.5/dayjs.min.js"></script>
 ```
 
+## react
+
+react
+
+```js
+<script src="https://cdn.jsdelivr.net/gh/brokyz/brokyzCDN/react/16.8.2/react.development.js"></script>
+```
+
+react-dom
+
+```js
+<script src="https://cdn.jsdelivr.net/gh/brokyz/brokyzCDN/react/16.8.2/react-dom.development.js"></script>
+```
+
+babel
+
+```js
+<script src="https://cdn.jsdelivr.net/gh/brokyz/brokyzCDN/react/16.8.2/babel.min.js"></script>
+```
+
+prop-types
+
+```js
+<script src="https://cdn.jsdelivr.net/gh/brokyz/brokyzCDN/react/16.8.2/prop-types.js"></script>
+```
+
